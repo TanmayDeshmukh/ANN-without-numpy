@@ -1,5 +1,4 @@
-"# ANN-without-numpy" 
-## 3 Layered, dense, Artificial Neural Network without numpy
+## Simple 3 Layer Artificial Neural Network without numpy
 No major dependancies like numpy.
 Tkinter used for Visual representation of NN:
 "pip3 install Tkinter" in command prompt
